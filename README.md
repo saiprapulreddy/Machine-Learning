@@ -25,7 +25,9 @@ This README
 
 How to Use the Notebook
 
+https://github.com/saiprapulreddy/Machine-Learning.git
 
+Machine-Learning
 
 Install the required Python packages.
 
